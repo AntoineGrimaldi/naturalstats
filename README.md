@@ -1,6 +1,6 @@
 # naturalstats
-A code to compute statistics on natural images . 
-%________________________________________________________________________% . 
+A code to compute statistics on natural images <br/>; 
+%________________________________________________________________________% <br/>; 
 % This function computes various statistics on a dataset of images. The  % . 
 % four statistical moments are computed for each image along with the DR % . 
 % and other information about the images that will be used in the differ-% . 
