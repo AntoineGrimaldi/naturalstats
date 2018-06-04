@@ -4,8 +4,8 @@ A code to compute statistics on natural images <br/>
 % This function computes various statistics on a dataset of images. The   <br/>
 % four statistical moments are computed for each image along with the DR  <br/> 
 % and other information about the images that will be used in the different <br/>
-% analyses. Histograms are computed regarding the work from Huang & Mumford,  <br/> 
-% 1999 as well as the wavelet coefficient joint histograms. The  <br/> 
+% analyses. Histograms are computed regarding the work from Huang &  <br/> 
+% Mumford, 1999 as well as the wavelet coefficient joint histograms. The  <br/> 
 % power spectra are a rotational average of the 2D Fourier transform of   <br/> 
 % the images.                                                             <br/> 
 % File with 1D luminance maps as an input.                                <br/> 
