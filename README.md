@@ -5,7 +5,7 @@ To use this code, open naturalstats.m, enter the name of the file where your
 images are stored, set up the different parameters for the statistical studies  
 and run it.<br/><br/>
 
-%________________________________________________________________________ <br/> 
+%__________________________________________________________________________ <br/> 
 % This function computes various statistics on a dataset of images. The   <br/>
 % four statistical moments are computed for each image along with the DR  <br/> 
 % and other information about the images that will be used in the different <br/>
