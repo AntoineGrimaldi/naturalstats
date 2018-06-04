@@ -1,5 +1,10 @@
 # naturalstats
-A code to compute statistics on natural images <br/> 
+A code to compute statistics on natural images <br/><br/>
+
+To use this code, open naturalstats.m, enter the name of the file where your     
+images are stored, set up the different parameters for the statistical studies  
+and run it.<br/><br/>
+
 %________________________________________________________________________ <br/> 
 % This function computes various statistics on a dataset of images. The   <br/>
 % four statistical moments are computed for each image along with the DR  <br/> 
@@ -17,8 +22,4 @@ A code to compute statistics on natural images <br/>
 %                                                                         <br/> 
 % Antoine Grimaldi, UPF, Barcelona                                        <br/> 
 %________________________________________________________________________ <br/> 
-<br/><br/>
-
-To use this code, open naturalstats.m, enter the name of the file where your     
-images are stored, set up the different parameters for the statistical studies  
-and run it. 
+<br/><br/> 
