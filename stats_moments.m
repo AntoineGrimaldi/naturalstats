@@ -42,7 +42,7 @@ for A = 1:size(namedatafile,1)
     
     LUM_filtered = abs(ifftshift(ifft2(f_filtered)));
     
-    dr = max(LUM_filtered(:))/min(LUM_filtered(:));
+    dr = max(LUM_filtered(:))/min(LUM_filtered(LUM_filtered>0));
     
     if norm == 1
         LUM = LUM./max(LUM(:));
