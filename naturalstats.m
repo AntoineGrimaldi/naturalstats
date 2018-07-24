@@ -156,7 +156,7 @@ else
             Haarfiltering(file, 4);
         end
         
-        [H_vh H_vd H_hd H_hupper H_vleft H_hleft H_dupperleft H_hprt H_dprt count] = stats_wavelet( strcat(file,'_haar') , NMDR , nbquantile , fine , Cmax, norm_wav );  
+        [H_vh H_vd H_hd H_hupper H_vleft H_hleft H_dupperleft H_hprt H_dprt] = stats_wavelet( strcat(file,'_haar') , NMDR , nbquantile , fine , Cmax, norm_wav );  
     end   
 end
 
