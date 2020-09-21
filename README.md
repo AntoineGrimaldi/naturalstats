@@ -1,4 +1,4 @@
-# naturalstats (pourlesbranches)
+# naturalstats
 
 A code to compute statistics on natural images <br/><br/>
 
