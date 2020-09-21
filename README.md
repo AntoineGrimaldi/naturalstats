@@ -1,4 +1,4 @@
-# naturalstats
+# naturalstats (jeretest)
 
 A code to compute statistics on natural images <br/><br/>
 
