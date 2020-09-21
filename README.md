@@ -1,4 +1,4 @@
-# naturalstats (jeretest)
+# naturalstats (pourlesbranches)
 
 A code to compute statistics on natural images <br/><br/>
 
