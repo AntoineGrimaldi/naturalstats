@@ -1,4 +1,4 @@
-# naturalstats
+# naturalstats (jetest)
 A code to compute statistics on natural images <br/><br/>
 
 To use this code, open naturalstats.m, enter the name of the file where your     
